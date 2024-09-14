@@ -7,7 +7,7 @@
 $ConfirmPreference = 'None'
 
 #adjust this variable to user running this script
-$user = 'ADJUSTMEBEFORERUNNING'
+$user = 'eleven'
 
 $option = Read-Host '
 1. File Dump & LockDown Nuke
